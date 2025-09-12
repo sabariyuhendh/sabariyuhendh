@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/VJ-E%3Fv%3D4" width="150" height="150" style="border-radius: 50%; border: 3px solid #6699CC;" />
 <h1 style="font-size: 2.5em;">Hey there! I'm Sabari Yuhendhran M.</h1>
-<ul style="list-style-type: none; padding: 0; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: left;">
+<ul style="list-style-type: none; padding: 0; max-width: 600px; margin: 0 auto; line-height: 1.6; text-align: center;">
 <li style="margin-bottom: 10px;">🎓 I'm a student at KIT - Kalaignarkarunanidhi Institute of Technology, pursuing a B.Tech in Computer Science and Business Systems (CSBS).</li>
 <li style="margin-bottom: 10px;">💻 Passionate about Data Structures and Algorithms and a dedicated competitive programmer with strong analytical and problem-solving skills.</li>
 <li style="margin-bottom: 10px;">🚀 Currently exploring modern web technologies and upgrading my portfolio with full-stack applications like Echosoul, an emotional wellness platform built with React, Tailwind, and Firebase.</li>
