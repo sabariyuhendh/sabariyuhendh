@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=200&section=header&text=Sabari%20Yuhendhran%20M&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=65&descAlign=50&fontColor=ffffff" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🌌+Exploring+the+Digital+Universe;⚡+1200%2B+Problems+Solved+Across+Platforms;��+Competitive+Programming+Enthusiast;💻+Full+Stack+Development+Wizard;��+Building+Solutions+for+Tomorrow;��+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🌌+Exploring+the+Digital+Universe;⚡+1200%2B+Problems+Solved+Across+Platforms;+Competitive+Programming+Enthusiast;💻+Full+Stack+Development+Wizard;+Building+Solutions+for+Tomorrow;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## �� About Me
+##  About Me
 
 <div align="center">
 
@@ -42,11 +42,11 @@ const sabari = {
 
 ---
 
-## ��️ Tech Stack & Tools
+## ️ Tech Stack & Tools
 
 <div align="center">
 
-### �� Languages
+###  Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -54,12 +54,12 @@ const sabari = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### �� Frameworks & Libraries
+###  Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ��️ Databases & Cloud
+### ️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -98,28 +98,28 @@ Collaborated in a 4-member team to build a real-time vulnerability scanner for w
 
 ---
 
-## �� Competitive Programming Achievements
+##  Competitive Programming Achievements
 
 <div align="center">
 
 ### 🌟 **1207+ Problems Solved Across Platforms**
 
-| Platform | Problems Solved | Max Rating | Status |
-|----------|----------------|------------|---------|
-| **LeetCode** | 300+ | Knight Rank | ✅ |
-| **CodeChef** | 567 | 1601 | ✅ |
-| **CodeForces** | 136 | 969 | ✅ |
-| **GeeksForGeeks** | 65+ | - | ✅ |
+| Platform | Problems Solved | Max Rating |
+|----------|----------------|------------|
+| **LeetCode** | 300+ | Knight Rank | 
+| **CodeChef** | 567 | 1601 | 
+| **CodeForces** | 136 | 969 | 
+| **GeeksForGeeks** | 65+ | - | 
 
 ### 🎯 **Hackathon Achievements**
-- �� **1st Place** - CodeSmash (Inter-college DSA Hackathon)
+-  **1st Place** - CodeSmash (Inter-college DSA Hackathon)
 - 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
 
 </div>
 
 ---
 
-## �� GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -152,13 +152,13 @@ Collaborated in a 4-member team to build a real-time vulnerability scanner for w
 
 ---
 
-## �� Current Focus
+##  Current Focus
 
 <div align="center">
 
 ![Focusing](https://img.shields.io/badge/Status-Focusing-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)
 
-**Currently working on:** Full-Stack Development
+**Currently working on:** Full-Stack Development & Competitive Programming
 
 **Learning:** Advanced Data Structures & Algorithms
 
@@ -168,11 +168,11 @@ Collaborated in a 4-member team to build a real-time vulnerability scanner for w
 
 ---
 
-## �� Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabariyuhendhran)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabariyuhendh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabariyuhendhran/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabariyuhendhran@gmail.com)
 
@@ -183,12 +183,12 @@ Collaborated in a 4-member team to build a real-time vulnerability scanner for w
 <div align="center">
 
 ### 💡 Fun Fact
-*"In the vast universe of code, every problem is just a star waiting to be discovered!"* ��
+*"In the vast universe of code, every problem is just a star waiting to be discovered!"* 
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=100&section=footer" alt="Footer" />
 
-**⭐ From [sabariyuhendhran](https://github.com/sabariyuhendhran)**
+**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
 
 </div>
