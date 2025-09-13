@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=200&section=header&text=Sabari%20Yuhendhran%20M&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20Problem%20Solver&descAlignY=65&descAlign=50&fontColor=ffffff" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=8B5CF6&text=Sabari%20Yuhendhran%20M&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=header&fontSize=60" alt="Header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🌌+Exploring+the+Digital+Universe;⚡+1200%2B+Problems+Solved+Across+Platforms;+Competitive+Programming+Enthusiast;💻+Full+Stack+Development+Wizard;+Building+Solutions+for+Tomorrow;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -183,7 +183,7 @@ Collaborated in a 4-member team to build a real-time vulnerability scanner for w
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8B5CF6&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=footer&fontSize=60" alt="Footer" />
 
 **⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
 
