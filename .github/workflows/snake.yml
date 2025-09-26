@@ -9,6 +9,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -21,15 +23,6 @@ jobs:
           github_user_name: sabariyuhendh
           gif_out_path: ./output/github-contribution-grid-snake.gif
           svg_out_path: ./output/github-contribution-grid-snake.svg
-
-      - name: Update README
-        uses: Platane/snk@master
-        id: snake-readme
-        with:
-          github_user_name: sabariyuhendh
-          gif_out_path: ./output/github-contribution-grid-snake.gif
-          svg_out_path: ./output/github-contribution-grid-snake.svg
-          readme_out_path: ./README.md
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
