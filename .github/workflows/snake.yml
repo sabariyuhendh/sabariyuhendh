@@ -17,12 +17,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+        uses: Platane/snk@v3
         with:
           github_user_name: sabariyuhendh
-          gif_out_path: ./output/github-contribution-grid-snake.gif
-          svg_out_path: ./output/github-contribution-grid-snake.svg
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake.gif?color_snake=purple&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
