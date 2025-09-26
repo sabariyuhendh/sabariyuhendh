@@ -123,7 +123,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/sabariyuhendh/sabariyuhendh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-contribution-grid-snake.svg)
 
 </div>  
 
