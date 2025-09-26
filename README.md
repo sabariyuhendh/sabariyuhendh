@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=8B5CF6&text=Sabari%20Yuhendhran%20M&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=header&fontSize=60" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Sabari%20Yuhendhran%20M&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=8B5CF6&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🌌+Exploring+the+Digital+Universe;⚡+1200%2B+Problems+Solved+Across+Platforms;+Competitive+Programming+Enthusiast;💻+Full+Stack+Development+Wizard;+Building+Solutions+for+Tomorrow;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=💡+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;⚡+DSA+%26+Problem+Solving+Enthusiast;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -16,106 +14,93 @@
 
 </div>
 
----
-
-## About Me
-
-```typescript
-const sabari = {
-  pronouns: "he" | "him",
-  code: ["C++", "Python", "Java", "JavaScript", "HTML", "CSS"],
-  frameworks: ["React.js", "Express.js"],
-  databases: ["MongoDB", "SQL"],
-  tools: ["Git", "GitHub", "Cursor", "WindSurf"],
-  currentFocus: "Full Stack Development & Competitive Programming",
-  funFact: "I turn algorithms into solutions and bugs into features! 🚀→💻",
-  passion: "Building innovative solutions and solving complex problems",
-  motto: "Code with passion, solve with precision"
-};
-```
-
-### 🌟 **"The universe is not only stranger than we imagine, it is stranger than we can imagine"** - J.B.S. Haldane
-
----
-
-##️ Tech Stack & Tools
-
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+💡 **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
+🚀 Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-###️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-</div>
+</div>  
 
 ---
 
-## 🎯 Featured Projects
+## 🔧 Technical Skills  
 
-<div align="center">
+### 💻 Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>  
 
-### 🌟 ECHOSOUL
-*Digital Emotional Wellness Platform*
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+### 🎨 Frontend Development  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>  
 
-A comprehensive digital emotional wellness platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
+### ⚙️ Backend & Database  
+<p align="left">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>  
+
+### 📊 DSA & Problem Solving  
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</p>  
+
+### ☁️ Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>    
 
 ---
 
-### 🔒 VULNERABILITY SCANNER
-*Real-time Web Application Security Scanner*
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## 📌 Featured Projects  
 
-Collaborated in a 4-member team to build a real-time vulnerability scanner for web applications with comprehensive security reporting dashboards.
+- **ECHOSOUL** – Digital Emotional Wellness Platform  
+  - React + MongoDB + Firebase integration for comprehensive emotional wellness platform designed for teens and young adults.
 
-</div>
+- **Vulnerability Scanner** – Real-time Web Application Security Scanner  
+  - Collaborated in a 4-member team to build a real-time vulnerability scanner with comprehensive security reporting dashboards.
+
+- **Full-Stack Development Projects** – [GitHub Repo](https://github.com/sabariyuhendh)  
+  - Covers authentication, database integration, and modern UI features.
+
+- **DSA Practice & Problem Solving** – Solutions in C++/Python covering arrays, heaps, DP, and tree problems.  
+  - **1207+ Problems Solved** across LeetCode, CodeChef, CodeForces, and GeeksForGeeks.
 
 ---
 
-## Competitive Programming Achievements
-
-<div align="center">
+## 🏆 DSA & Problem Solving Achievements
 
 ### 🌟 **1207+ Problems Solved Across Platforms**
 
-| Platform | Problems Solved | Max Rating | Status |
-|----------|----------------|------------|---------|
-| **LeetCode** | 300+ | Knight Rank | ✅ |
-| **CodeChef** | 567 | 1601 | ✅ |
-| **CodeForces** | 136 | 969 | ✅ |
-| **GeeksForGeeks** | 65+ | - | ✅ |
+| Platform | Problems Solved | Max Rating |
+|----------|----------------|------------|
+| **LeetCode** | 300+ | Knight Rank |
+| **CodeChef** | 567 | 1601 |
+| **CodeForces** | 136 | 969 |
+| **GeeksForGeeks** | 65+ | - |
 
 ### 🎯 **Hackathon Achievements**
 - **1st Place** - CodeSmash (Inter-college DSA Hackathon)
 - 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
 
-</div>
-
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -136,6 +121,12 @@ Collaborated in a 4-member team to build a real-time vulnerability scanner for w
 
 </div>
 
+<div align="center">
+
+<svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>@keyframes s0{0%{transform:translate(0,-16px)}}@keyframes s1{0%{transform:translate(16px,-16px)}}@keyframes s2{0%{transform:translate(32px,-16px)}}@keyframes s3{0%{transform:translate(48px,-16px)}}:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}@media (prefers-color-scheme:dark){:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 100ms linear infinite}.s,.u{animation:none linear 100ms infinite}.u{transform-origin:0 0;transform:scale(0,1)}.s{shape-rendering:geometricPrecision;fill:var(--cs)}.s.s0{transform:translate(0,-16px);animation-name:s0}.s.s1{transform:translate(16px,-16px);animation-name:s1}.s.s2{transform:translate(32px,-16px);animation-name:s2}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
+
+</div>  
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -148,31 +139,21 @@ Collaborated in a 4-member team to build a real-time vulnerability scanner for w
 
 ---
 
-## Current Focus
-
-<div align="center">
-
-![Focusing](https://img.shields.io/badge/Status-Focusing-8B5CF6?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)
-
-**Currently working on:** Full-Stack Development & Competitive Programming
-
-**Learning:** Advanced Data Structures & Algorithms
-
-**Next Goal:** Contribute to Open Source Projects & Build Innovative Solutions
-
-</div>
+## 🌱 Currently Learning  
+- Advanced React patterns and state management
+- Backend integration with Firebase & MongoDB
+- Advanced Data Structures & Algorithms
+- Problem Solving techniques and optimization
+- Full-Stack Development best practices
 
 ---
 
-## Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabariyuhendh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabariyuhendhran/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabariyuhendhran@gmail.com)
-
-</div>
+## 📫 Connect with Me  
+<p align="left">
+  <a href="https://github.com/sabariyuhendh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
 
 ---
 
@@ -180,10 +161,6 @@ Collaborated in a 4-member team to build a real-time vulnerability scanner for w
 
 ### 💡 Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8B5CF6&descAlign=0&textBg=false&fontAlignY=50&animation=twinkling&strokeWidth=1&reversal=false&section=footer&fontSize=60" alt="Footer" />
 
 **⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
 
