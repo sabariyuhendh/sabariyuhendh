@@ -163,6 +163,9 @@
 
 <div align="center">
 
+![snake gif](https://github.com/sabariyuhendh/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
+
 ### 💡 Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
