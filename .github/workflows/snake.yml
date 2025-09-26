@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: sabariyuhendh
+          gif_out_path: ./assets/github-contribution-grid-snake.gif
+          svg_out_path: ./assets/github-contribution-grid-snake.svg
+
+      - name: Update README
+        uses: Platane/snk@master
+        id: snake-readme
+        with:
+          github_user_name: sabariyuhendh
+          gif_out_path: ./assets/github-contribution-grid-snake.gif
+          svg_out_path: ./assets/github-contribution-grid-snake.svg
+          readme_out_path: ./README.md
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: 'Generate contribution snake'
+          add: './assets/github-contribution-grid-snake.*'
