@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Sabari%20Yuhendhran%20M&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=8B5CF6&strokeWidth=2" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=💡+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;⚡+DSA+%26+Problem+Solving+Enthusiast;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -16,16 +16,16 @@
 
 <div align="center">
 
-💡 **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
-🚀 Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
+ **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
+ Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
 
 </div>  
 
 ---
 
-## 🔧 Technical Skills  
+##  Technical Skills  
 
-### 💻 Programming Languages  
+###  Programming Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -35,13 +35,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>  
 
-### 🎨 Frontend Development  
+###  Frontend Development  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>  
 
-### ⚙️ Backend & Database  
+###  Backend & Database  
 <p align="left">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -50,13 +50,13 @@
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>  
 
-### 📊 DSA & Problem Solving  
+###  DSA & Problem Solving  
 <p align="left">
   <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Problem_Solving-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>  
 
-### ☁️ Tools & Platforms  
+###  Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -67,7 +67,7 @@
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 
 - **ECHOSOUL** – Digital Emotional Wellness Platform  
   - React + MongoDB + Firebase integration for comprehensive emotional wellness platform designed for teens and young adults.
@@ -83,9 +83,9 @@
 
 ---
 
-## 🏆 DSA & Problem Solving Achievements
+##  DSA & Problem Solving Achievements
 
-### 🌟 **1207+ Problems Solved Across Platforms**
+###  **1207+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
@@ -94,13 +94,13 @@
 | **CodeForces** | 136 | 969 |
 | **GeeksForGeeks** | 65+ | - |
 
-### 🎯 **Hackathon Achievements**
+###  **Hackathon Achievements**
 - **1st Place** - CodeSmash (Inter-college DSA Hackathon)
 - 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -133,7 +133,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -143,7 +143,7 @@
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 - Advanced React patterns and state management
 - Backend integration with Firebase & MongoDB
 - Advanced Data Structures & Algorithms
@@ -152,7 +152,7 @@
 
 ---
 
-## 📫 Connect with Me  
+##  Connect with Me  
 <p align="left">
   <a href="https://github.com/sabariyuhendh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -163,7 +163,7 @@
 
 <div align="center">
 
-### 💡 Fun Fact
+###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
 **⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
