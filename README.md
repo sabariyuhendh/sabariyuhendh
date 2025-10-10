@@ -21,7 +21,6 @@
 
 </div>  
 
----
 
 ##  Technical Skills  
 
@@ -70,7 +69,6 @@
 </table>
 
 <br>
----
 
 ##  Featured Projects  
 
