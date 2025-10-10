@@ -89,7 +89,7 @@
       React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View Project →</a>
+      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
     </td>
   </tr>
 
@@ -102,7 +102,7 @@
       React.js • Tailwind CSS • GitHub
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View Project →</a>
+      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
     </td>
   </tr>
 
@@ -115,7 +115,7 @@
       React.js • Node.js • MongoDB • WebSockets
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View Project →</a>
+      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View →</a>
     </td>
   </tr>
 
@@ -128,7 +128,7 @@
       Java • Maven • MySQL • Spring Boot
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View Project →</a>
+      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
     </td>
   </tr>
 </table>
